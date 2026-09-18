@@ -1,1 +1,1 @@
-Inflate payload parts for ArabiKey conjugueur Vercel preview. Blob SHA-256 dab470dbef6d22b566b2f990ddc9cc406f1a89fabb71d0134f258f7a9e956c9b
+ArabiKey conjugueur inflate parts. Hash in SHA256SUMS.
